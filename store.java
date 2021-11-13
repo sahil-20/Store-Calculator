@@ -80,5 +80,3 @@ class store {
 	}
 }
 
-// javac store.java
-// java store
